@@ -1,0 +1,89 @@
+{
+    "title":"Gato preto ou Golden Retriever ?",
+    "questions":[
+      {
+        "id":1,
+        "question": "Qual bebida você escolheria ?",
+        "options":[
+          {"id": 1, "name":"Café ☕", "alias":"A"},
+          {"id": 2, "name":"Refrigerante 🥤", "alias":"B"},
+          {"id": 3, "name":"Vinho 🍷", "alias":"A"},
+          {"id": 4, "name":"Água 💧", "alias":"B"},
+          {"id": 5, "name":"Suquinho 🧃", "alias":"B"}
+        ]
+      },
+      {
+        "id":2,
+        "question": "Qual o seu período favorito do dia ?",
+        "options":[
+          {"id": 1, "name":"Noite 🌆", "alias":"A"},
+          {"id": 2, "name":"Tarde ⛺", "alias":"B"},
+          {"id": 3, "name":"Manhã 🏡", "alias":"B"},
+          {"id": 4, "name":"Madrugada 🌃", "alias":"A"}
+
+        ]
+      },
+      {
+        "id":3,
+        "question": "Qual a sua estação favorita ?",
+        "options":[
+          {"id": 1, "name":"Verão 🌞", "alias":"B"},
+          {"id": 2, "name":"Inverno 🧊", "alias":"A"},
+          {"id": 3, "name":"Outono 🍂", "alias":"A"},
+          {"id": 4, "name":"Primavera 🌷", "alias":"B"}
+        ]
+      },
+      {
+        "id":4,
+        "question": "Escolha elemento sem pensar muito: ",
+        "options":[
+          {"id": 1, "name":"Fogo 🔥", "alias":"B"},
+          {"id": 2, "name":"Ar 🍃", "alias":"A"},
+          {"id": 3, "name":"Água 🌊", "alias":"B"},
+          {"id": 4, "name":"Terra 🌄", "alias":"B"},
+          {"id": 5, "name":"Raio ⚡", "alias":"A"},
+          {"id": 6, "name":"Gelo ⛄", "alias":"A"}
+        ]
+      },
+      {
+        "id":5,
+        "question": "Em Harry Potter, com qual das casas você mais se identifica ?",
+        "options":[
+          {"id": 1, "name":"Grifinória 🦁🔴 (coragem)", "alias":"B"},
+          {"id": 2, "name":"Sonserina 🐍🟢 (ambição)", "alias":"A"},
+          {"id": 3, "name":"Corvinal 🐦🔵 (sabedoria)", "alias":"A"},
+          {"id": 4, "name":"Lufa Lufa 🦡🟡 (lealdade) ", "alias":"B"}
+        ]
+      },
+      {
+        "id":6,
+        "question": "Qual a sua comida favorita ?",
+        "options":[
+          {"id": 1, "name":"Hamburger 🍔", "alias":"B"},
+          {"id": 2, "name":"Sushi 🍣", "alias":"A"},
+          {"id": 3, "name":"Pizza 🍕", "alias":"A"},
+          {"id": 4, "name":"Massas 🍝", "alias":"A"},
+          {"id": 5, "name":"Torta 🥧", "alias":"B"},
+          {"id": 6, "name":"Churrasco 🥩", "alias":"B"}
+        ]
+      },
+      {
+        "id":7,
+        "question": "Por fim, escolha uma cor: ",
+        "options":[
+          {"id": 1, "name":"Laranja 🧡", "alias":"B"},
+          {"id": 2, "name":"Vermelho 💖", "alias":"A"},
+          {"id": 3, "name":"Roxo 💜", "alias":"A"},
+          {"id": 4, "name":"Verde 💚", "alias":"B"},
+          {"id": 5, "name":"Azul 💙", "alias":"A"},
+          {"id": 6, "name":"Amarelo 💛", "alias":"B"}
+
+        ]
+      }
+
+    ],
+    "results":{
+      "A": "Você claramente tem a personalidade marcante e misteriosa de um gato preto! 🐱‍👤",
+      "B": "Você claramente é tão desastrado, ansioso e animado quanto um Golden Retriever! 🐕"
+    }
+  }
